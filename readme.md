@@ -75,3 +75,5 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 - Full Stack Developer Indonesia
 - Co-Founder and CTO [Dentist Care Indonesia](https://dentistcare.id/)
+
+Other repository in [gitlab penadidik](https://gitlab.com/penadidik)
